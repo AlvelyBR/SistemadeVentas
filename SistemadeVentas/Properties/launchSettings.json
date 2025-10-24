@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "SistemadeVentas": {
+      "commandName": "Project",
+
+      "environmentVariables": {
+        "ConnectionString": "Host=localhost;Port=5432;Username=postgres;Password=Amelia13;Database=postgres"
+      }
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
